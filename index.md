@@ -14,7 +14,7 @@ enddate: 2019-06-28     # machine-readable end date for the workshop in YYYY-MM-
 instructor: ["Bukola Aremu", "Mita Williams"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Roger Reka"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["Bukola.Aremu@uwindsor.ca","mita@uwindsor.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: ["http://pad.carpentries.org/2019-06-27-site"]   
+collaborative_notes: http://pad.carpentries.org/2019-06-27-site
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
   
@@ -97,7 +97,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants will be using lab computers with R and R Studio already installed (listed <a href="#setup">below</a>).
+  <strong>Requirements:</strong> Participants will be using lab computers with R and R Studio already installed (listed <a href="#setup">below</a>).   We will use this <a href="https://pad.carpentries.org/2019-06-27-site">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 
 {% comment%}
