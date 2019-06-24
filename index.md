@@ -97,8 +97,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants will be using lab computers with R and R Studio already installed (listed <a href="#setup">below</a>).   We will use this <a href="https://pad.carpentries.org/2019-06-27-site">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
-</p>
+  <strong>Requirements:</strong> Participants will be using lab computers with R and R Studio already installed (listed <a href="#setup">below</a>).   
 
 {% comment%}
 CODE OF CONDUCT
@@ -208,7 +207,7 @@ e.g., '2015-06-10-esu'.
 {% endcomment %}
 {% if page.collaborative_notes %}
 <h2 id="collaborative_notes">Collaborative Notes</h2>
-  We will use this <a href="https://pad.carpentries.org/2019-06-27-site">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  <p>We will use this <a href="https://pad.carpentries.org/2019-06-27-site">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 {% endif %}
 
